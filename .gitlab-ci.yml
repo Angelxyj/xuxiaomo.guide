@@ -3,13 +3,11 @@ pages:
   cache:
     paths:
       - node_modules/
-      - docs/.vitepress/cache
   script:
     - yarn install
     - yarn docs:build
   artifacts:
     paths:
-      - public
-      - docs/.vitepress/dist
+      - dist
   only:
     - main

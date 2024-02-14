@@ -10,9 +10,10 @@ import {otherSidebar} from './otherConf'
 export default defineConfig({
   // 基本配置
   base: process.env.BASE || '/xuxiaomo.guide/', // 项目的基础路径
-	outDir: '../public',
+	outDir: '../dist',
   title: '许小墨のGuide', // 文档的标题
   description: '分享前沿学习干货，不止前端', // 文档描述
+  lang: 'zh-CN',
 	deadLinks:true,
   lastUpdated: true,
 
@@ -64,7 +65,7 @@ export default defineConfig({
       label: '目录'
     },
 		outlineTitle:'大纲目录',
-		lastUpdatedText:'Updated Date',
+    lastUpdatedText: '最近更新时间',
     search: {
       provider: 'local'
     },
