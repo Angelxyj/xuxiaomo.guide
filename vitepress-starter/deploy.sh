@@ -7,7 +7,7 @@ set -e
 npm run docs:build
 
 # 进入生成的文件夹
-cd dist
+cd docs/.vitepress/dist
 
 git init
 git add -A
