@@ -519,13 +519,13 @@ var guessNumber = function (n) {
 
 链表 👉[详解链表在前端的应用，顺便再弄懂原型和原型链！](/column/Algorithm/003_LinkedList)
 
-字典和集合 👉[ES6 的 Set 和 Map 你都知道吗？一文了解集合和字典在前端中的应用](column/Algorithm/004_Dictionary)
+字典和集合 👉[ES6 的 Set 和 Map 你都知道吗？一文了解集合和字典在前端中的应用](/column/Algorithm/004_Dictionary)
 
-树 👉[一文了解树在前端中的应用，掌握数据结构中树的生命线](column/Algorithm/005_Tree)
+树 👉[一文了解树在前端中的应用，掌握数据结构中树的生命线](/column/Algorithm/005_Tree)
 
-图 👉[太平洋大西洋水流问题如何解决？一文了解图在前端中的应用](column/Algorithm/006_Graph)
+图 👉[太平洋大西洋水流问题如何解决？一文了解图在前端中的应用](/column/Algorithm/006_Graph)
 
-堆 👉[最小堆最大堆了解吗？一文了解堆在前端中的应用](column/Algorithm/007_Heap)
+堆 👉[最小堆最大堆了解吗？一文了解堆在前端中的应用](/column/Algorithm/007_Heap)
 
 动态规则和分而治之算法 👉[一文了解分而治之和动态规则算法在前端中的应用](/column/Algorithm/008_Dynamics)
 

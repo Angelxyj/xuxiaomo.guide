@@ -13,7 +13,7 @@ export default defineConfig({
 	outDir: '../public',
   title: '许小墨のGuide', // 文档的标题
   description: '分享前沿学习干货，不止前端', // 文档描述
-	// deadLinks:true,
+	deadLinks:true,
   lastUpdated: true,
 
   // 移动端搜索框优化
