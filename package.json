@@ -9,13 +9,14 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
     "docs:preview": "vitepress preview docs",
-    "test": "echo \"Error: no test specified\" && exit 1",   
+    "test": "echo \"Error: no test specified\" && exit 1",
     "fix-memory-limit": "cross-env LIMIT=4096 increase-memory-limit"
   },
   "author": "xuxiaomo",
   "license": "ISC",
   "dependencies": {
     "cross-env": "^7.0.3",
+    "element-plus": "^2.5.5",
     "increase-memory-limit": "^1.0.7",
     "markdown-it-anchor": "^8.6.7",
     "vite": "^4.2.1",

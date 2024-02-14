@@ -47,8 +47,8 @@ export const nav: DefaultTheme.NavItem[] = [
       }
     ]
   },
-  frontendNav,
-  backendNav,
+  // frontendNav,
+  // backendNav,
   {
     text: '分类索引',
     items: [
