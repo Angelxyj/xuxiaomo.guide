@@ -8,6 +8,7 @@ pages:
     - yarn docs:build
   artifacts:
     paths:
-      - dist
+      - docs/.vitepress/dist
+      - public
   only:
     - main

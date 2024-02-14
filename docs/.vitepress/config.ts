@@ -10,7 +10,7 @@ import {otherSidebar} from './otherConf'
 export default defineConfig({
   // 基本配置
   base: process.env.BASE || '/xuxiaomo.guide/', // 项目的基础路径
-	outDir: '../dist',
+	// outDir: '../public',
   title: '许小墨のGuide', // 文档的标题
   description: '分享前沿学习干货，不止前端', // 文档描述
   lang: 'zh-CN',
