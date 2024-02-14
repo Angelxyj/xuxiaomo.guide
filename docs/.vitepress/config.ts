@@ -65,6 +65,10 @@ export default defineConfig({
     },
 		outlineTitle:'大纲目录',
 		lastUpdatedText:'Updated Date',
+    search: {
+      provider: 'local'
+    },
+    i18nRouting: true,
     socialLinks: [
       {
 				icon: {
