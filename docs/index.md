@@ -40,33 +40,33 @@ features:
       <el-dropdown-menu>
         <el-dropdown-item disabled>基本功</el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/html" :underline="false">Html</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/html/" :underline="false">Html</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/css" :underline="false">CSS</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/css/" :underline="false">CSS</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/javascript" :underline="false">JavaScript</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/javascript/" :underline="false">JavaScript</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/typescript" :underline="false">TypeScript</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/typescript/" :underline="false">TypeScript</el-link>
         </el-dropdown-item>
         <el-dropdown-item disabled divided>框架</el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/react" :underline="false">React</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/react/" :underline="false">React</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/next" :underline="false">NextJS</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/next/" :underline="false">NextJS</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/vue" :underline="false">Vue</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/vue/" :underline="false">Vue</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/tauri" :underline="false">Tauri</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/tauri/" :underline="false">Tauri</el-link>
         </el-dropdown-item>
         <el-dropdown-item disabled divided>丰富资源</el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/frontend/ui" :underline="false">组件库</el-link>
+          <el-link href="/xuxiaomo.guide/article/frontend/ui/" :underline="false">组件库</el-link>
         </el-dropdown-item>
       </el-dropdown-menu>
     </template>
@@ -77,23 +77,23 @@ features:
       <el-dropdown-menu>
         <el-dropdown-item disabled>嗨你好吗</el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/backend/nodejs" :underline="false">Node.js</el-link>
+          <el-link href="/xuxiaomo.guide/article/backend/nodejs/" :underline="false">Node.js</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/backend/nestjs" :underline="false">NestJS</el-link>
+          <el-link href="/xuxiaomo.guide/article/backend/nestjs/" :underline="false">NestJS</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/backend/CPP" :underline="false">C++</el-link>
+          <el-link href="/xuxiaomo.guide/article/backend/CPP/" :underline="false">C++</el-link>
         </el-dropdown-item>
         <el-dropdown-item>
-          <el-link href="/xuxiaomo.guide/article/backend/Csharp" :underline="false">C#NET</el-link>
+          <el-link href="/xuxiaomo.guide/article/backend/Csharp/" :underline="false">C#NET</el-link>
         </el-dropdown-item>
         <el-dropdown-item disabled divided>服务</el-dropdown-item>
         <el-dropdown-item >
-          <el-link href="/xuxiaomo.guide/article/backend/nginx" :underline="false">Nginx</el-link>
+          <el-link href="/xuxiaomo.guide/article/backend/nginx/" :underline="false">Nginx</el-link>
         </el-dropdown-item>
         <el-dropdown-item >
-          <el-link href="/xuxiaomo.guide/article/backend/gitLearn" :underline="false">Git</el-link>
+          <el-link href="/xuxiaomo.guide/article/backend/gitLearn/" :underline="false">Git</el-link>
         </el-dropdown-item>
       </el-dropdown-menu>
     </template>
