@@ -34,7 +34,7 @@ features:
 ---
 
 <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, 100%); width: 240px; display: flex; justify-content: space-between;">
-  <el-dropdown>
+  <el-dropdown trigger="click">
     <el-button round size="large" type="success">前端小食堂</el-button>
     <template #dropdown>
       <el-dropdown-menu>
@@ -71,7 +71,7 @@ features:
       </el-dropdown-menu>
     </template>
   </el-dropdown>
-    <el-dropdown>
+  <el-dropdown trigger="click">
     <el-button round size="large" type="success" plain>后端自习室</el-button>
     <template #dropdown>
       <el-dropdown-menu>
@@ -99,6 +99,14 @@ features:
     </template>
   </el-dropdown>
 </div>
+
+<style scpod>
+  .el-link{
+    width: 100%;
+    height: 100%;
+    display: block
+  }
+</style>
 
 <!-- 自定义组件 -->
 <!-- <script setup>

@@ -338,4 +338,4 @@ test.getGender(); // userInfo.gender 不存在
 
 # 🥳 往期推荐
 
-🛵[TypeScript，从 0 到入门带你进入类型的世界](https://juejin.cn/post/6980248901966102564)
+🛵[TypeScript，从 0 到入门带你进入类型的世界](https://blog.csdn.net/qq_60306931/article/details/130899046)

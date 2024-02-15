@@ -11,7 +11,7 @@ sidebar: 'auto'
 
 # 前言
 
-接[上一篇文章](https://blog.csdn.net/weixin_44803753/article/details/117234787)的内容，我们挑选出几个案例来对数据流图和数据字典进行分析。
+接[上一篇文章](/column/Product/SoftwareEngineer/009StructuredAnalysis)的内容，我们挑选出几个案例来对数据流图和数据字典进行分析。
 
 # 一、数据流图案例分析
 
@@ -129,5 +129,5 @@ sidebar: 'auto'
 
 # 三、写在最后
 
-关于数据流图和数据字典的案例分析就讲到这里啦！大家可以根据[上一篇文章](https://blog.csdn.net/weixin_44803753/article/details/117234787)和这一篇文章连在一起结合学习。如有需要了解软件工程相关的其他内容，可到『[软件工程](https://blog.csdn.net/weixin_44803753/category_10895589.html?spm=1001.2014.3001.5482)』栏目进行查看学习~
+关于数据流图和数据字典的案例分析就讲到这里啦！大家可以根据[上一篇文章](/column/Product/SoftwareEngineer/009StructuredAnalysis)和这一篇文章连在一起结合学习。如有需要了解软件工程相关的其他内容，可到『[软件工程](/column/Product/SoftwareEngineer/)』栏目进行查看学习~
 

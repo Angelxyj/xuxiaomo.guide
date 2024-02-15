@@ -54,7 +54,7 @@ sidebar: 'auto'
 ![软件工程学习路径](https://mondaylab-1309616765.cos.ap-shanghai.myqcloud.com/images/202305270945670.png)
 
 可以根据这样的学习路径到网上搜寻相关教学视频学习；
-同时，我会根据这个学习框架，写一些文章供大家学习使用，并且会把软件工程相关的文章放到[『软件工程』](https://blog.csdn.net/weixin_44803753/category_10895589.html?spm=1001.2014.3001.5482)这个专栏里，方便大家归类查看；
+同时，我会根据这个学习框架，写一些文章供大家学习使用，并且会把软件工程相关的文章放到[『软件工程』](/column/Product/SoftwareEngineer/)这个专栏里，方便大家归类查看；
 
 持续更新中……
 

@@ -92,10 +92,10 @@ export const frontendSidebarDetail = {
           text: '008-重温 vue3 composition-api',
           link: '/column/FrontEnd/VUE/008_vue3api'
         },
-        {
-          text: '009-vitepress 从0到1 搭建技术博客',
-          link: '/column/FrontEnd/VUE/009_vitepress_blog'
-        }
+        // {
+        //   text: '009-vitepress 从0到1 搭建技术博客',
+        //   link: '/column/FrontEnd/VUE/009_vitepress_blog'
+        // }
       ]
     },
     {
@@ -156,8 +156,8 @@ export const frontendSidebarDetail = {
           link: '/column/FrontEnd/TypeScript/002_tsDecorator'
         },
         {
-          text: '002-ts装饰器',
-          link: '/column/FrontEnd/TypeScript/003'
+          text: '003-ts进阶',
+          link: '/column/FrontEnd/TypeScript/003_tsIntro2'
         }
       ]
     },
@@ -209,7 +209,7 @@ export const frontendSidebarDetail = {
       ]
     },
     {
-      text: '青训营YouthCamp',
+      text: '其他',
       items: [
         {
           text: '001-HTML基础',
@@ -251,10 +251,10 @@ export const frontendSidebarDetail = {
           text: '010-微信抢红包功能',
           link: '/column/FrontEnd/YouthCamp/010'
         },
-        {
-          text: '011-结营感悟',
-          link: '/column/FrontEnd/YouthCamp/011'
-        }
+        // {
+        //   text: '011-结营感悟',
+        //   link: '/column/FrontEnd/YouthCamp/011'
+        // }
       ]
     },
     {
