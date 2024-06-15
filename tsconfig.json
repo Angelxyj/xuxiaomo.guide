@@ -2,7 +2,7 @@
     "include": [
         "./src/**/*"
     ], // 指定被编译文件所在的目录
-    "exclude": [], // 指定不需要被编译的目录
+    "exclude": ["**/*.test.ts"], // 指定不需要被编译的目录
     /* 项目选项 */
     "compilerOptions": {
         "target": "ES6", // 目标语言的版本
