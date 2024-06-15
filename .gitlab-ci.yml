@@ -9,6 +9,6 @@ pages:
   artifacts:
     paths:
       - docs/.vitepress/dist
-      - public
+      # - public
   only:
     - main
